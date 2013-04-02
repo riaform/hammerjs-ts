@@ -3,10 +3,9 @@
   "version": "1.0.4",
   "main": "hammerjs.d.ts",
   "dependencies": {
-    "hammerjs": "git://github.com/EightMedia/hammer.js.git#~1.0.4"
+    "hammerjs": "git://github.com/EightMedia/hammer.js.git"
   },
   "ignore": [
-    "**/.*",
     "node_modules",
     "components"
   ]
